@@ -77,7 +77,7 @@ order by 2 desc;
 	city_name,
     round((population*0.25)/1000000 , 2) as coffee_consumers
  from city;
- 
+    
  
  
  
