@@ -11,7 +11,7 @@ SELECT
     -- 1]Coffee Consumers Count
 -- How many people in each city are estimated to consume coffee, given that 25% of the population does?
  FROM city
- ORDER BY 2 DESC;
+ ORDER BY 2 DESC;   
  
  
  -- Total Revenue from Coffee Sales
