@@ -12,7 +12,7 @@ SELECT
 -- How many people in each city are estimated to consume coffee, given that 25% of the population does?
  FROM city
  ORDER BY 2 DESC;   
- 
+    
  
  -- Total Revenue from Coffee Sales
 -- What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?
